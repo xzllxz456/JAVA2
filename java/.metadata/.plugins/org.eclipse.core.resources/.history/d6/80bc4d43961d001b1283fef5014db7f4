@@ -16,8 +16,8 @@ public class JavaEx03 {
 		System.out.println("주소입력");
 		String add = sc.next();
 		
-		System.out.println("이름: " + name + "  나이: " + age +
-				"  성별: " + sex + "  핸드폰: " + pnum + "  키 : " + height + "  주소: " + add
+		System.out.println("이름: " + name + "나이: " + age +
+				"성별: " + sex + "핸드폰: " + pnum + "키 : " + height + "주소: " + add
 				);
 	}
 }
